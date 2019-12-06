@@ -1,0 +1,8 @@
+app_identifier("com.SergeyKudryavtsev.ThirdFastLane") # The bundle identifier of your app
+apple_id("wind-in-sails@mail.ru") # Your Apple email address
+
+itc_team_id("1568722") # App Store Connect Team ID
+team_id("CHZJAHSJ6N") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
